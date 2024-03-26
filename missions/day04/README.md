@@ -6,14 +6,14 @@ Day 4 미션 안내 드립니다.
 
 Day1 부터 Day7 까지는 React 학습을 위한 기초를 더 탄탄히 다지기 위해 자바스크립트를 빠르게 학습(복습)해 볼거에요!
 
-> [전체 진도표 보기](https://www.notion.so/winterlood/2573dd24c0484500b807d595cc19a2cd)
+> [전체 진도표 보기](https://onebite-fe-challenge.super.site/%EC%A7%84%EB%8F%84%ED%91%9C-%EB%AA%A8%EC%9D%8C/%EC%A7%84%EB%8F%84%ED%91%9C-%ED%95%9C-%EC%9E%85-%ED%81%AC%EA%B8%B0%EB%A1%9C-%EC%9E%98%EB%9D%BC%EB%A8%B9%EB%8A%94-%EB%A6%AC%EC%95%A1%ED%8A%B8)
 
 - **2섹션 - 2.단락 평가** 까지 수강합니다.
-- 5개의 챕터 / 47 소요
+- 5개의 챕터 / 47분 소요
 
 ### 🎯 미션 안내
 
-> **[코딩 Quiz 보러 가기](https://github.com/winterlood/onebite-react-challenge/blob/main/missions/day4/coding-quiz)**
+> **[코딩 Quiz 보러 가기](https://github.com/winterlood/onebite-react-challenge/blob/main/missions/day04/coding-quiz)**
 
 오늘의 미션은 바로 코딩 Quiz입니다!  
 총 3개의 퀴즈가 준비되어 있고, 그리 복잡하지 않으니 금방 하실 수 있어요

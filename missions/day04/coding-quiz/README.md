@@ -19,7 +19,7 @@ const book = {
 };
 ```
 
-[정답보기](https://github.com/winterlood/onebite-react-challenge/blob/main/missions/day4/coding-quiz/quiz1/answer.js)
+[정답보기](https://github.com/winterlood/onebite-react-challenge/blob/main/missions/day04/coding-quiz/quiz1/answer.js)
 
 ### Quiz 2. 소수 판별기 (에라토스테네스의 체)
 
@@ -47,9 +47,9 @@ console.log(isPrimeNumber(12));
 // false
 ```
 
-[정답보기](https://github.com/winterlood/onebite-react-challenge/blob/main/missions/day4/coding-quiz/quiz2/answer.js)
+[정답보기](https://github.com/winterlood/onebite-react-challenge/blob/main/missions/day04/coding-quiz/quiz2/answer.js)
 
-### Quiz 3. 계산기 만들기
+### Quiz 3. 계산기 만들기 (콜백 Ver)
 
 ---
 
@@ -84,4 +84,4 @@ calculate(5, 3, subtract);
 // 2
 ```
 
-[정답보기](https://github.com/winterlood/onebite-react-challenge/blob/main/missions/day4/coding-quiz/quiz3/answer.js)
+[정답보기](https://github.com/winterlood/onebite-react-challenge/blob/main/missions/day04/coding-quiz/quiz3/answer.js)
