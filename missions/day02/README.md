@@ -6,7 +6,7 @@ Day 2 미션 안내 드립니다.
 
 Day1 부터 Day7 까지는 React 학습을 위한 기초를 더 탄탄히 다지기 위해 자바스크립트를 빠르게 학습(복습)해 볼거에요!
 
-> [전체 진도표 보기](https://onebite-fe-challenge.super.site/%EC%A7%84%EB%8F%84%ED%91%9C-%EB%AA%A8%EC%9D%8C/%EC%A7%84%EB%8F%84%ED%91%9C-%ED%95%9C-%EC%9E%85-%ED%81%AC%EA%B8%B0%EB%A1%9C-%EC%9E%98%EB%9D%BC%EB%A8%B9%EB%8A%94-%EB%A6%AC%EC%95%A1%ED%8A%B8)
+> [전체 진도표 보기](https://www.notion.so/winterlood/2573dd24c0484500b807d595cc19a2cd)
 
 - **1섹션 - 9.조건문** 까지 수강합니다.
 - 4개의 챕터 / 40분 소요
