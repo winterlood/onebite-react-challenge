@@ -14,7 +14,7 @@ const y = 20;
 let max;
 ```
 
-[정답보기](https://github.com/winterlood/onebite-react-challenge/blob/main/missions/day2/coding-quiz/quiz1/answer.js)
+[정답보기](https://github.com/winterlood/onebite-react-challenge/blob/main/missions/day02/coding-quiz/quiz1/answer.js)
 
 ### Quiz 2.
 
@@ -29,7 +29,7 @@ let max;
 const a = true;
 ```
 
-[정답보기](https://github.com/winterlood/onebite-react-challenge/blob/main/missions/day2/coding-quiz/quiz2/answer.js)
+[정답보기](https://github.com/winterlood/onebite-react-challenge/blob/main/missions/day02/coding-quiz/quiz2/answer.js)
 
 ### Quiz 3.
 
@@ -47,4 +47,4 @@ const a = true;
 let temperature = 10;
 ```
 
-[정답보기](https://github.com/winterlood/onebite-react-challenge/blob/main/missions/day2/coding-quiz/quiz3/answer.js)
+[정답보기](https://github.com/winterlood/onebite-react-challenge/blob/main/missions/day02/coding-quiz/quiz3/answer.js)
