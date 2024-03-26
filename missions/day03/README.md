@@ -13,7 +13,7 @@ Day1 부터 Day7 까지는 React 학습을 위한 기초를 더 탄탄히 다지
 
 ### 🎯 미션 안내
 
-> **[코딩 Quiz 보러 가기](https://github.com/winterlood/onebite-react-challenge/blob/main/missions/day3/coding-quiz)**
+> **[코딩 Quiz 보러 가기](https://github.com/winterlood/onebite-react-challenge/blob/main/missions/day03/coding-quiz)**
 
 오늘의 미션은 바로 코딩 Quiz입니다!  
 총 3개의 퀴즈가 준비되어 있고, 그리 복잡하지 않으니 금방 하실 수 있어요
