@@ -24,10 +24,6 @@ switch (typeof a) {
     console.log("불리언");
     break;
   }
-  case "null": {
-    console.log("널");
-    break;
-  }
   case "undefined": {
     console.log("언디파인");
     break;
