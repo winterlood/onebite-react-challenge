@@ -24,7 +24,6 @@ for (;;) {
 
 - 함수 isPrimeNumber는 한개의 매개변수 num을 제공받아 소수인지 판별합니다.
 - num이 소수라면 true를, 아니라면 false를 반환합니다.
-- **특별히 1도 소수로 판정합니다.**
 
 ```javascript
 function isPrimeNumber(num) {
