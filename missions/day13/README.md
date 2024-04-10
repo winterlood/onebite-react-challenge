@@ -8,7 +8,7 @@ Day 13 미션 안내 드립니다.
 React.js 기본 기능을 막 배우고 처음으로 진행하는 프로젝트이므로 어렵게 준비하지는 않았으니 걱정마세요!  
 강의와 함께 간단한 카운터 앱을 만들고 useEffect와 라이프사이클 이라는 개념에 대해서도 배워봅시다 💪
 
-> **[전체 진도표 보기](https://onebite-fe-challenge.super.site/%EC%A7%84%EB%8F%84%ED%91%9C-%EB%AA%A8%EC%9D%8C/%EC%A7%84%EB%8F%84%ED%91%9C-%ED%95%9C-%EC%9E%85-%ED%81%AC%EA%B8%B0%EB%A1%9C-%EC%9E%98%EB%9D%BC%EB%A8%B9%EB%8A%94-%EB%A6%AC%EC%95%A1%ED%8A%B8)**
+> **[전체 진도표 보기](https://www.notion.so/winterlood/2573dd24c0484500b807d595cc19a2cd)**
 
 - **(7섹션 4챕터) React 개발자도구 사용하기** 까지 수강합니다.
 - 7개의 챕터 / 49분 소요
