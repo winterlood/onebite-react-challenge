@@ -15,7 +15,7 @@
 3. CodeSandbox에 프로젝트 업로드 후 링크로 공유
 4. VsCode 화면 캡쳐 (원하시는 부분을 캡쳐해주시면 됩니다)
 
-> [정답 보기](https://github.com/winterlood/onebite-react-challenge/blob/main/missions/day10/coding-quiz/answer)
+> [정답 보기](https://github.com/winterlood/onebite-react-challenge/blob/main/missions/day10/answer)
 
 ## 미션 소개
 
