@@ -29,7 +29,7 @@ printMovieReview({
 // 출력 결과 :
 // 제목 : 하얼빈
 // 개봉 : 2023
-// 첫 번째 리뷰어 : 이정환
+// 첫 번째 리뷰어 : 박정민
 
 printMovieReview({
   title: "위키드",
