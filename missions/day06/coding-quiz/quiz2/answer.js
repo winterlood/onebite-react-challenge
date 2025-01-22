@@ -9,6 +9,7 @@
  *   3. 이벤트 발생 시각은 toLocaleString 메서드를 사용해 알아보기 쉽게 출력하세요
  */
 
+// Ver1
 function printClickEventLogs(logs) {
   logs.forEach((log) => {
     if (log.type === "click") {
@@ -17,6 +18,15 @@ function printClickEventLogs(logs) {
       );
     }
   });
+}
+
+// Ver 2
+function _printClickEventLogs(logs) {
+  logs
+    .filter((log) => log.type === "click")
+    .forEach((log) =>
+      console.log(`${log.type} :: ${new Date(log.date).toLocaleString()}`)
+    );
 }
 
 printClickEventLogs([
